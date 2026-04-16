@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 随便写2312点
 mmmmmmmmmmmmmmmmmmmmmm吃饭
 w23124m
+=======
+我是kyubey
+随便写点
+>>>>>>> 5d07261dade64be435fd9c601a703484a1f5076e
